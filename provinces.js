@@ -1,4 +1,4 @@
-function iranwebsv(state)
+function CityList(state)
 {
 	with(document.getElementById('city')) 
 	{
